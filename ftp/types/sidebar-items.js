@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FileType","File Type used in `TYPE` command"],["FormatControl","Text Format Control used in `TYPE` command"]]});

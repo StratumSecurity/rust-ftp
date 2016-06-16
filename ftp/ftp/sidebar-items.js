@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FtpStream","Stream to interface with the FTP server. This interface is only for the command stream."]]});
